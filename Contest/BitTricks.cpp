@@ -9,9 +9,9 @@ __builtin_popcountll(x);
 // 1 if popcount is odd, 0 if even
 __builtin_parityll(x);
 // count leading zeros in 64-bit
-__builtin_clzll(x); // x != 0
+__builtin_clzll(x);  // x != 0
 // count trailing zeros (use: lowest set bit, bit iteration)
-__builtin_ctzll(x); // x != 0
+__builtin_ctzll(x);  // x != 0
 // index of highest 1-bit (use: power of 2 <= x)
 int msb = 63 - __builtin_clzll(x);
 // index of lowest 1-bit
