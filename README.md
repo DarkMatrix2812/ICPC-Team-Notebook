@@ -4,6 +4,8 @@ This repository contains the C++ templates, data structures, and algorithms we u
 
 You can download the compiled document here: `[notebook.pdf]` *(PDF will be uploaded here soon)*. You can also browse the category folders for our raw `.cpp` source code.
 
+*Credit:* The layout, formatting, and structural inspiration for our compiled PDF template is heavily based on the [KTH Algorithm Competition Template Library (KACTL)](https://github.com/kth-competitive-programming/kactl).
+
 ## Design Philosophy
 This notebook is built for speed and reliability. It contains our core, tested templates optimized for quick reference and fast implementation during a contest.
 
