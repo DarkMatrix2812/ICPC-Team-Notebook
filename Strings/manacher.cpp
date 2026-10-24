@@ -9,6 +9,7 @@ s[l..r] (0-indexed) is a palindrome iff p[l + r + 2] >= r - l + 1.
 The characters '^', '#', '$' must not appear in s, else change the sentinels.
 Time: O(n)
 */
+
 vector<int> manacher(string s) { // p[] on t
     if (s.empty()) return {};
     string t = "^";
