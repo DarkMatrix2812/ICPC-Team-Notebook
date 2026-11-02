@@ -2,11 +2,11 @@
 
 This repository contains the C++ templates, data structures, and algorithms we use for ICPC and other competitive programming contests.
 
-You can download the compiled document here: `[notebook.pdf]` *(PDF will be uploaded here soon)*. You can also browse the category folders for our raw `.cpp` source code.
+You can download the compiled document here: [notebook.pdf](./notebook.pdf). You can also browse the category folders for our raw `.cpp` source code.
 
 *Credit:* The layout, formatting, and structural inspiration for our compiled PDF template is heavily based on the [KTH Algorithm Competition Template Library (KACTL)](https://github.com/kth-competitive-programming/kactl).
 
-## Design Philosophy
+## Design
 This notebook focuses on commonly used algorithms and data structures for competitive programming, with more advanced algorithms and specialized techniques kept to a minimum.
 
 ## Usage
